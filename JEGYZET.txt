@@ -1,0 +1,7 @@
+Ide kellenek azok a parancsok amiko használhatok
+
+Egyhatalmas oldal Linux parancsokkal: 
+http://www.letix.hu/
+
+Egy nagyon igéretes gyüjtemény: 
+http://www.linux.valodi.info/parancsok/rendszer-informacio
